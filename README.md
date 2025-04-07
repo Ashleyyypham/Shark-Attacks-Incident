@@ -97,3 +97,5 @@ This project explores how shark incidents impact different areas of Australia th
         Regional monitoring—especially in NSW and QLD
 
     The White, Tiger, and Bull Sharks are the key species to consider in safety strategies.
+
+    You can interact my dashboard: https://shorturl.at/UVnFv
